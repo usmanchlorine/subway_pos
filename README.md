@@ -4,3 +4,6 @@ contains a validation check
 contains list of items to chooose 
 it creates a recipt in excel to be print out 
 needs some corrections though.
+gui.PY IS THE MAIN FILE
+
+
